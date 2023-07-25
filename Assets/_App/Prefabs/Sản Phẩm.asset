@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1de118c01cd375348bc5b06db5d3937a, type: 3}
+  m_Name: "S\u1EA3n Ph\u1EA9m"
+  m_EditorClassIdentifier: 
+  name: 
+  infor: "B\u1EBFp Vi\u1EC7t"
+  folderPath: Assets/BepViet
+  SanPham:
+  - ID: 0
+    anh: {fileID: 21300000, guid: 1dd9760fe32b1c1429f9fc0e0f4dab69, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "430.000 \u0111"
+    name: 
+  - ID: 1
+    anh: {fileID: 21300000, guid: a0798a58090c8904fab22a06e070b82f, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "480.000 \u0111"
+    name: 
+  - ID: 2
+    anh: {fileID: 21300000, guid: f6b6fef31bee43b419d5a090ce66b7fb, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "890.000 \u0111"
+    name: 
+  - ID: 3
+    anh: {fileID: 21300000, guid: 4311913acbe8294489c15ff06eda00ba, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "520.000 \u0111"
+    name: 
+  - ID: 4
+    anh: {fileID: 21300000, guid: 5122342d44059484186d24900afeab5a, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "360.000 \u0111"
+    name: 
+  - ID: 5
+    anh: {fileID: 21300000, guid: d05fbc62519ed9649a76ba05abf822c1, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "9.000.000 \u0111"
+    name: 
+  - ID: 6
+    anh: {fileID: 21300000, guid: e67df584d88add84dbce43182d6887a6, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "4.000.000 \u0111"
+    name: 
+  - ID: 7
+    anh: {fileID: 21300000, guid: 652504a84e8bee241bc488df73f379eb, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "310.000 \u0111"
+    name: 
+  - ID: 8
+    anh: {fileID: 21300000, guid: 1aa221bd12bc8be429008bb2adfbad23, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "810.000 \u0111"
+    name: 
+  - ID: 9
+    anh: {fileID: 21300000, guid: ec658af9b4f103444830a73f5d6aba1d, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "7.000.000 \u0111"
+    name: 
+  - ID: 10
+    anh: {fileID: 21300000, guid: ea7194ed96aebaa4ba2944baab9dbe60, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "890.000 \u0111"
+    name: 
+  - ID: 11
+    anh: {fileID: 21300000, guid: 18cece1c01faa124483586732468a4f0, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "6.000.000 \u0111"
+    name: 
+  - ID: 12
+    anh: {fileID: 21300000, guid: f9309556ec8ffe94bb6e09477f62c788, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "15.000.000 \u0111"
+    name: 
+  - ID: 13
+    anh: {fileID: 21300000, guid: a576d56816b06114199767cf6db43a07, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "6.000.000 \u0111"
+    name: 
+  - ID: 14
+    anh: {fileID: 21300000, guid: 8728274793865cd48b75405ab4cd30b9, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "B\u1EBFp Vi\u1EC7t"
+    gia: "610.000 \u0111"
+    name: 
